@@ -7,4 +7,3 @@ const batteries = () => {
     })
     return result
 }
-console.log(batteries())
